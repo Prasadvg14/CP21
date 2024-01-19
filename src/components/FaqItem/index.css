@@ -1,0 +1,32 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+  width: 60vw;
+  border: 1px solid #d7dae6;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.ques {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #52606d;
+}
+.ans {
+  border-top: 1px solid #d7dae6;
+  padding-top: 10px;
+  color: #9aa5b1;
+  margin-top: 0px;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+.plus {
+  height: 10vh;
+}
+.minus {
+  height: 20vh;
+}
